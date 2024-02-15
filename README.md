@@ -5,4 +5,4 @@
 </p>
 
 ## Motivation 
-<p>This project aims to launch me into the world of programming, highlighting my knowledge in HTML, CSS and JavaScript. To achieve this goal, I created a calculator with basic mathematical functionalities.</p>
+<p>This project aims to show my technical knowledge in the world of programming, highlighting my knowledge in HTML, CSS and JavaScript. To achieve this goal, I created a calculator with basic mathematical features.</p>
