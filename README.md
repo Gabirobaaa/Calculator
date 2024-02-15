@@ -1,3 +1,3 @@
 <p align = center>
-  <img src="assets/Gif calculator.gif">
+  <img width=300 heigth=300 src="assets/Gif calculator.gif">
 </p>
